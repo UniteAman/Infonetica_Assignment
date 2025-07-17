@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H4Tx3la62mKjJyAgVYM4jB2vl3pCfriaPaivqt6PvKU=",
+  "Source": "ConfigurableWorkflowEngine",
+  "BasePath": "_content/ConfigurableWorkflowEngine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
